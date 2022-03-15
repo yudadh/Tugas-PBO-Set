@@ -1,2 +1,2 @@
-# Tugas-Pemrograman-Berorientasi-Obyek
-Berisi kode program dari tugas yang diberikan dengan bahasa Java
+# Tugas-PBO-Set
+Berisi kode program dari implementasi Set dengan bahasa Java
