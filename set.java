@@ -1,12 +1,12 @@
 package com.yuda.BelajarJava.collection;
 
-import java.util.*;
+import java.util.*;  // import library
 
 public class set {
 
     public static void main(String[] args) {
 
-        Set<String> bola = new HashSet<>(); //penggunaan HashSet
+        Set<String> bola = new HashSet<>(); // penggunaan HashSet
 
         bola.add("Tenis"); // menambahkan objek ke dalam collection 
         bola.add("Ping-Pong");
